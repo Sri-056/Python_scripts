@@ -1,4 +1,4 @@
-N = int(input())
+N = 10
 s = (N * 2) - 1
 s1=s-1
 q=N
